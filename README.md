@@ -14,7 +14,7 @@ Fixture will automatically create a test tenant using the multi-tenant mechanism
 When you import the test data to the test tenant, input the test data to Fixture and it will be automatically imported.  
 Use YAML because test data is easy to write and read.
 
-Here is a sample YAML.
+Here is a sample.
 
 ```YAML
 ToDoModule:
