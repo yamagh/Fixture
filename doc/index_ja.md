@@ -49,3 +49,14 @@ ModuleName:
 Fixture で利用可能な YAML のフォーマットについて記載する。
 
 ## Advanced Guide
+
+## Q&A
+
+### 1. ランダムな値を使用したい
+
+次の Froge のコンポーネントが役に立ちます。
+
+- [Randomizer Number Generator](https://www.outsystems.com/forge/component-overview/677/randomizer-number-generator)
+- [RandomInteger - Overview - OutSystems](https://www.outsystems.com/forge/component-overview/1836/randominteger)
+- [Random Number List Generator - Overview - OutSystems](https://www.outsystems.com/forge/component-overview/2761/random-number-list-generator)
+- [RandomClass - Component Versions - OutSystems](https://www.outsystems.com/forge/component-versions/1474)
